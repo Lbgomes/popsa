@@ -8,7 +8,7 @@ Another result of the technical drag to swap test, where you rearrange the posit
 - [Next.Js ](https://github.com/zeit/next.js)
 - Javascript
 - [Netlify](https://www.netlify.com)
-- [Styled components](https://styled-components.com/)
+- [chakra-ui](https://chakra-ui.com/)
 - [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
 
