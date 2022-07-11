@@ -29,7 +29,7 @@ const Column = ({ column, tasks }) => {
                     {...draggableProvided.draggableProps}
                     {...draggableProvided.dragHandleProps}
                   >
-                    <Image src={task.content} alt="" rounded="md" outline="1px solid" transition="0.1s"
+                    <Image src={task.content} alt="" borderRadius="0.375rem" outline="1px solid" transition="0.1s"
                     transform={ draggableSnapshot.isDragging ? "rotate(2deg)" : "none"}                     
                     outlineColor={ draggableSnapshot.isDragging ? "card-border" : "transparent"}
                     boxShadow={ draggableSnapshot.isDragging ? "0 5px 10px rgba(0, 0, 0, 0.6)" : "unset"
