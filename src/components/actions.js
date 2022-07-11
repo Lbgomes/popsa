@@ -1,23 +1,5 @@
-import { Flex,Box } from "@chakra-ui/react";
-// const StyledActions = styled.div`
-//   display: flex;
-// `;
+import { Flex } from "@chakra-ui/react";
 
-// const Icon = styled.div`
-//   background: #ededed;
-//   width: 32px;
-//   height: 32px;
-//   border-radius: 32px;
-//   margin: 0 5px;
-//   display: flex;
-//   align-items: center;
-//   justify-content: center;
-//   cursor: pointer;
-// `;
-
-// const ButtonLayout = styled(Icon)``;
-
-// const ButtonMenu = styled(Icon)``;
 
 export default function Actions({ data }) {
   return (

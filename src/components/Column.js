@@ -1,6 +1,5 @@
 import { Flex, Text, Image, useMediaQuery} from "@chakra-ui/react";
 import React from "react";
-import { useState } from "react";
 import { Draggable, Droppable } from "react-beautiful-dnd";
 import Actions from "../components/actions";
 
