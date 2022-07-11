@@ -20,4 +20,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result, or open the [live demo](https://dragtoswap.netlify.app/testpage)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result, or open the [live demo](https://drag-drop-popsa.netlify.app/)
